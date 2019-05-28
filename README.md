@@ -28,9 +28,9 @@ Single-shot MultiBox Detector is a one-stage object detection algorithm. This me
 ##### Architecture of SSD :
 Single class object detection models will need less learnable features. Less parameters mean that the network will be smaller. Smaller networks run faster because it requires less computations.
 
-![alt text](images/ssd_arch.png)
-
 ![alt text](images/arch1.png)
+
+![alt text](images/ssd_arch.png)
 
 
 #### Research Paper Reference for this repository:
