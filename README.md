@@ -4,7 +4,7 @@ This repository contains the code for person traing using SSD and centriod.
 
 ### Project Structure
 ```
-├── ckpt_	             # Weight file
+├── ckpt_                # Weight file
 ├── images               # Images 
 ├── input-data           # Input data for detection.
 ├── Readme               # Readme for Face-detection-SSD
